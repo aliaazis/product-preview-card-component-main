@@ -75,7 +75,7 @@
     display: grid;
     padding: 1rem;
     place-content: center;
-    min-height: 100%;
+    min-height: 100vh;
   }
 
   .product {
