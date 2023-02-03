@@ -73,8 +73,9 @@
     font-size: 0.875rem;
     background-color: var(--primary-color2);
     display: grid;
-    margin: 1rem;
+    padding: 1rem;
     place-content: center;
+    min-height: 100%;
   }
 
   .product {
